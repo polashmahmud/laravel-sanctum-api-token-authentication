@@ -1,9 +1,9 @@
 # Laravel Sancum Api Token Authentication
 
 <a href="https://github.com/polashmahmud/laravel-sanctum-api-token-authentication-client">Frontend Repositories</a>
-
-<a href="https://www.youtube.com/watch?v=dfWEhh0mVYc&list=PLh-F6-XbduO_PidlrQWUTCW0PitcBRV8Q">YouTube Video tutorial link: Laravel Sanctum API Token Authentication</a>
-<a href="https://www.youtube.com/watch?v=3hPYbGVqTto&list=PLh-F6-XbduO9fIFsspC9Gs9jdDiQVHFdx">YouTube Video tutorial link: Vue and Laravel Api Token Authentication</a>
+<p>YouTube Video tutorial link:</p>
+<a href="https://www.youtube.com/watch?v=dfWEhh0mVYc&list=PLh-F6-XbduO_PidlrQWUTCW0PitcBRV8Q">Laravel Sanctum API Token Authentication</a><br>
+<a href="https://www.youtube.com/watch?v=3hPYbGVqTto&list=PLh-F6-XbduO9fIFsspC9Gs9jdDiQVHFdx">YVue and Laravel Api Token Authentication</a>
 
 ## How to install
 
