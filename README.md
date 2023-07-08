@@ -1,6 +1,8 @@
 # Laravel Sancum Api Token Authentication
 
-## How to install (Backend)
+<a href="https://github.com/polashmahmud/laravel-sanctum-api-token-authentication-client">Frontend</a>
+
+## How to install
 
 ```
 mkdir laravel-sanctum-api-token-authentication
